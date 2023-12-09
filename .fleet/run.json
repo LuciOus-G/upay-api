@@ -1,9 +1,0 @@
-{
-    "configurations": [
-        {
-            "type": "go",
-            "name": "Run Server",
-            "goPath"
-        }
-    ]
-}
